@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneChanger.unity
+    guid: 434757b1c3d34d940aa8dbd6ad218d03
+  - enabled: 1
+    path: Assets/SpriteStudio6Sample/Benchmark/Benchmark.unity
+    guid: 8213a85985c1dfe4ba27253357b218f2
+  - enabled: 1
+    path: Assets/SpriteStudio6Sample/BitmapFontNumeric/BitmapFont.unity
+    guid: fee746a08dc643c48bb03c9c1ae1427d
+  - enabled: 1
+    path: Assets/SpriteStudio6Sample/Doll/Doll.unity
+    guid: 45c7d4016c8672e4eb306e6b8b9ae79f
   m_configObjects: {}
